@@ -1,0 +1,20 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos Python compilados
+*.pyc
+*.pyo
+__pycache__/
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivo de banco de dados SQLite (se você estiver usando SQLite)
+*.db
+
+# Arquivo de configuração do Flask
+instance/
